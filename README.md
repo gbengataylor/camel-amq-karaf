@@ -1,4 +1,4 @@
-This project shows a Camel Route using an AMQ broker. For an example running the same camel route in OpenShift and using an AMQ broker, see  [Karaf2-camel-amq](https://github.com/gbengataylor/karaf2-camel-amq)
+This project shows a Camel Route using an AMQ broker. For an example running the same camel route in OpenShift, see  [Karaf2-camel-amq](https://github.com/gbengataylor/karaf2-camel-amq)
 
 This project assumes a broker is running on localhost:61616. This can be modified
 
